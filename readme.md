@@ -1,3 +1,5 @@
+## This is an unmaintained fork of the original blade-svg repository by adamwathan made compatible with Laravel 8.
+
 # Blade SVG
 
 Easily inline SVG images in your Blade templates.
