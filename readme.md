@@ -8,7 +8,7 @@ Easily inline SVG images in your Blade templates.
 
 You can install this package via Composer by running this command in your terminal in the root of your project:
 
-`composer require nothingworks/blade-svg`
+`composer require tomhatzer/blade-svg-origin`
 
 ## Getting started
 
